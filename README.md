@@ -9,7 +9,7 @@ Corpus data can be found here in the corresponding folder: https://disk.yandex.r
 
 The texts annotated with Frames used data from the following resources:
 
-- https://huggingface.co/datasets/HuggingFaceGECLM/REDDIT_threaded}
+- https://huggingface.co/datasets/HuggingFaceGECLM/REDDIT_threaded
 - https://huggingface.co/datasets/fancyzhx/ag_news
 - https://huggingface.co/datasets/MarcOrfilaCarreras/spanish-news
 - https://huggingface.co/datasets/Kateryna/eva_ru_forum_headlines
