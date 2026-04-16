@@ -25,7 +25,8 @@ The texts annotated with Frames used data from the following resources:
   pages={209--226},
   year={2009},
   publisher={Springer}
-}```
+}
+```
 - ```bibtex
   @article{pablo2019dataset,
   title={Dataset of discussion threads from Meneame},
@@ -33,7 +34,8 @@ The texts annotated with Frames used data from the following resources:
   journal={Dataset of discussion threads from Meneame},
   year={2019},
   publisher={Zenodo}
-}```
+}
+```
 - ```bibtex
   @InProceedings{espana-bonet-barron-cedeno-2024-elote-naacl,
     title = "Elote, Choclo and Mazorca: on the Varieties of {S}panish",
@@ -49,4 +51,5 @@ The texts annotated with Frames used data from the following resources:
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.naacl-long.204",
     pages = "3689--3711"
-}```
+}
+```
