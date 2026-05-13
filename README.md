@@ -53,3 +53,6 @@ The texts annotated with Frames used data from the following resources:
     url = "https://aclanthology.org/2024.naacl-long.204",
     pages = "3689--3711"
   }
+
+When using materials from this work, please cite:
+- coming soon
