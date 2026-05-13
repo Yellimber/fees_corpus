@@ -1,4 +1,7 @@
 # fees_corpus
+
+This repository contains materials for two research papers.
+
 Text corpus annotated with Frame Evoking Elements.
 
 Corpus data can be found here in the corresponding folder: https://disk.yandex.ru/d/VFlLy8FEKH8Dqg.
